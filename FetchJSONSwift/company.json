@@ -1,0 +1,65 @@
+{
+  "company": {
+    "support": [
+      {
+      "id" : 1,
+      "first_name" : "Robb",
+      "last_name" : "Stark",
+      "active" : true,
+      "tickets": [
+          {
+            "id" : 51324562,
+            "title" : "Problem in my computer",
+            "problem" : "How to turn on the keyboard?"
+          },
+          {
+            "id" : 35634562,
+            "title" : "Screen all black",
+            "problem" : "I think my computer broke down."
+          },
+          {
+            "id" : 35234561,
+            "title" : "No internet",
+            "problem" : "My internet is not working."
+          }
+        ]
+      },
+      {
+      "id" : 2,
+      "first_name" : "Torrhen",
+      "last_name" : "Stark",
+      "active" : false,
+      "tickets": [
+          {
+            "id" : 9841814,
+            "title" : "Problem ",
+            "problem" : "I think my computer broke down"
+          },
+          {
+            "id" : 2524645,
+            "title" : "Youtube all black",
+            "problem" : "My internet is not working.."
+          }
+        ]
+      },
+      {
+      "id" : 3,
+      "first_name" : "Joffrey",
+      "last_name" : "Baratheon",
+      "active" : true,
+      "tickets": [
+          {
+            "id" : 2342355,
+            "title" : "Black Screen",
+            "problem" : "I think my computer broke down."
+          },
+          {
+            "id" : 523236,
+            "title" : "Phone not working",
+            "problem" : "also myy internet is not working.."
+          }
+        ]
+      }
+    ]
+  }
+}
