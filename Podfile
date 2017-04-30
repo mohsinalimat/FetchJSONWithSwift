@@ -7,6 +7,6 @@ target 'FetchJSONSwift' do
 
   # Pods for FetchJSONSwift
   pod 'SwiftyJSON'
-  pod 'RealmSwift', '~> 2.1.2'
+  pod 'RealmSwift', '~> 2.6.2'
 
 end
